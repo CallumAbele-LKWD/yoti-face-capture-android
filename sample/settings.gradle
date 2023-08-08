@@ -13,4 +13,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "FCM Demo"
-include ':app'
+include ':LockwoodYoti'
+include ':yotifacecapture'
